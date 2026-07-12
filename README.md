@@ -26,9 +26,9 @@ Smart Expense Tracker is a desktop application built using **Java Swing** that h
 
 # 📸 Application Preview
 
-| Dashboard|
-|-----------|------------|----------|
-| ![](ss.png) | ![](dashboard.png) |
+| Login Screen | Dashboard |
+|--------------|-----------|
+| <img src="ss.png" width="450"> | <img src="dashboard.png" width="450"> |
 
 ---
 
