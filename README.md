@@ -131,36 +131,6 @@ Smart-Expense-Tracker
 └── build_and_run.bat
 ```
 
----
-
-# ⚙️ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Smart-Expense-Tracker.git
-```
-
-Go to the project
-
-```bash
-cd Smart-Expense-Tracker
-```
-
-Compile
-
-```bash
-javac -d bin -sourcepath src/main/java src/main/java/com/expense/tracker/Main.java
-```
-
-Run
-
-```bash
-java -cp bin com.expense.tracker.Main
-```
-
----
-
 # 📊 Complexity Analysis
 
 | Operation | Data Structure | Time Complexity |
